@@ -1,0 +1,157 @@
+[15:16:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:16:19] [ServerMain/INFO]: Loaded 1174 recipes
+[15:16:19] [ServerMain/INFO]: Loaded 1271 advancements
+[15:16:20] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[15:16:20] [Server thread/INFO]: Loading properties
+[15:16:20] [Server thread/INFO]: This server is running Paper version git-Paper-450 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 62b220a)
+[15:16:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:16:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:16:22] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[15:16:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[15:16:22] [Server thread/INFO]: Default game type: SURVIVAL
+[15:16:22] [Server thread/INFO]: Generating keypair
+[15:16:22] [Server thread/INFO]: Starting Minecraft server on *:5050
+[15:16:22] [Server thread/INFO]: Using default channel type
+[15:16:22] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[15:16:22] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:16:23] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-4-935
+[15:16:23] [Server thread/INFO]: [dynmap] version=git-Paper-450 (MC: 1.20.4)
+[15:16:23] [Server thread/INFO]: [dynmap] Mod Support API available
+[15:16:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:16:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:16:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:16:23] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[15:16:23] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
+[15:16:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:16:23] [Server thread/INFO]: Preparing level "world"
+[15:16:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:16:24] [Server thread/INFO]: Time elapsed: 307 ms
+[15:16:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:16:24] [Server thread/INFO]: Time elapsed: 46 ms
+[15:16:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:16:24] [Server thread/INFO]: Time elapsed: 31 ms
+[15:16:24] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-4-935
+[15:16:25] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[15:16:25] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[15:16:25] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[15:16:25] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[15:16:30] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[15:16:30] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[15:16:30] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[15:16:30] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[15:16:31] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[15:16:31] [Server thread/INFO]: [dynmap] version 3.7-beta-4-935 is enabled - core version 3.7-beta-4-935
+[15:16:31] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[15:16:31] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[15:16:31] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[15:16:31] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[15:16:31] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[15:16:31] [Server thread/INFO]: [dynmap] Loaded 8 pending tile renders for world 'world'
+[15:16:32] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[15:16:32] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[15:16:32] [Server thread/INFO]: [dynmap] Enabled
+[15:16:32] [Server thread/INFO]: Running delayed init tasks
+[15:16:32] [Server thread/INFO]: Done (12.011s)! For help, type "help"
+[15:16:32] [Server thread/INFO]: Timings Reset
+[15:16:32] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[15:16:34] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[15:16:46] [Server thread/INFO]: World name is required
+[15:18:02] [Server thread/INFO]: Full render starting on world 'world'...
+[15:18:36] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 100 tiles rendered (326.44 msec/tile, 296.62 msec per render)
+[15:19:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 200 tiles rendered (429.69 msec/tile, 297.14 msec per render)
+[15:19:43] [User Authenticator #0/INFO]: UUID of player stijnieboy_150 is 78651db8-6a5c-4b30-91bc-41f6e9a0fd8c
+[15:19:50] [Server thread/INFO]: stijnieboy_150 joined the game
+[15:19:50] [Server thread/INFO]: stijnieboy_150[/192.168.1.130:50433] logged in with entity id 166 at ([world]-28.98216039351564, 65.0, -36.069486765009714)
+[15:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4142ms or 82 ticks behind
+[15:20:40] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 300 tiles rendered (469.05 msec/tile, 286.22 msec per render)
+[15:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3077ms or 61 ticks behind
+[15:20:59] [Server thread/INFO]: stijnieboy_150 lost connection: Disconnected
+[15:21:00] [Server thread/INFO]: stijnieboy_150 left the game
+[15:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6083ms or 121 ticks behind
+[15:23:45] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 400 tiles rendered (727.87 msec/tile, 296.43 msec per render)
+[15:24:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 500 tiles rendered (708.26 msec/tile, 283.56 msec per render)
+[15:26:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5954ms or 119 ticks behind
+[15:26:45] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 600 tiles rendered (726.34 msec/tile, 291.81 msec per render)
+[15:27:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18015ms or 360 ticks behind
+[15:27:09] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-450 (MC: 1.20.4) ---
+[15:27:09] [Paper Watchdog Thread/ERROR]: The server has not responded for -1 seconds! Creating thread dump
+[15:27:09] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:27:09] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:27:13] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:27:13] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:27:16] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: true | State: RUNNABLE
+[15:27:17] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.util.zip.Inflater.inflateBytesBytes(Native Method)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.util.zip.Inflater.inflate(Inflater.java:376)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:177)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/jdk.internal.loader.Resource.getBytes(Resource.java:126)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/jdk.internal.loader.URLClassPath$JarLoader$2.getBytes(URLClassPath.java:862)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.net.URLClassLoader.defineClass(URLClassLoader.java:519)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.security.AccessController.executePrivileged(AccessController.java:809)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.security.AccessController.doPrivileged(AccessController.java:714)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.horse.AbstractHorse.aiStep(AbstractHorse.java:603)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3066)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.tick(Mob.java:438)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.horse.AbstractHorse.tick(AbstractHorse.java:638)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:1409)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda/0x0000023ddb1c70c0.accept(Unknown Source)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.guardEntityTick(Level.java:1318)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.lambda$tick$8(ServerLevel.java:916)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.WorldServer$$Lambda/0x0000023ddaec71c8.accept(Unknown Source)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:42)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:896)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1714)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1515)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1216)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000023ddabd1c88.run(Unknown Source)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.lang.Thread.runWith(Thread.java:1596)
+[15:27:19] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.2/java.lang.Thread.run(Thread.java:1583)
+[15:27:19] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:27:19] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[15:27:19] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:27:49] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 700 tiles rendered (690.97 msec/tile, 272.38 msec per render)
+[15:28:09] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 800 tiles rendered (628.00 msec/tile, 255.98 msec per render)
+[15:28:36] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 900 tiles rendered (584.49 msec/tile, 248.67 msec per render)
+[15:28:49] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' completed - 985 tiles rendered (547.19 msec/map-tile, 238.72 msec per render)
+[15:29:54] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 100 tiles rendered (623.78 msec/tile, 555.14 msec per render)
+[15:30:52] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 200 tiles rendered (590.06 msec/tile, 540.05 msec per render)
+[15:31:56] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 300 tiles rendered (605.50 msec/tile, 538.55 msec per render)
+[15:32:54] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 400 tiles rendered (597.01 msec/tile, 529.06 msec per render)
+[15:33:46] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 500 tiles rendered (579.93 msec/tile, 518.81 msec per render)
+[15:34:35] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 600 tiles rendered (564.10 msec/tile, 509.32 msec per render)
+[15:35:23] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 700 tiles rendered (552.43 msec/tile, 501.77 msec per render)
+[15:36:09] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 800 tiles rendered (540.91 msec/tile, 493.21 msec per render)
+[15:36:58] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 900 tiles rendered (535.61 msec/tile, 488.68 msec per render)
+[15:37:46] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1000 tiles rendered (530.00 msec/tile, 484.82 msec per render)
+[15:38:35] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1100 tiles rendered (526.47 msec/tile, 482.94 msec per render)
+[15:39:19] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1200 tiles rendered (518.72 msec/tile, 477.19 msec per render)
+[15:40:04] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1300 tiles rendered (513.45 msec/tile, 473.10 msec per render)
+[15:40:52] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1400 tiles rendered (511.04 msec/tile, 471.85 msec per render)
+[15:41:39] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1500 tiles rendered (508.52 msec/tile, 470.87 msec per render)
+[15:42:22] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1600 tiles rendered (503.75 msec/tile, 466.90 msec per render)
+[15:43:15] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1700 tiles rendered (505.38 msec/tile, 469.44 msec per render)
+[15:43:55] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1800 tiles rendered (499.26 msec/tile, 464.66 msec per render)
+[15:44:43] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 1900 tiles rendered (498.46 msec/tile, 464.46 msec per render)
+[15:45:30] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2000 tiles rendered (497.09 msec/tile, 464.05 msec per render)
+[15:46:12] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2100 tiles rendered (493.36 msec/tile, 460.94 msec per render)
+[15:47:05] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2200 tiles rendered (494.67 msec/tile, 462.95 msec per render)
+[15:47:41] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2300 tiles rendered (489.17 msec/tile, 458.21 msec per render)
+[15:48:36] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2400 tiles rendered (491.35 msec/tile, 460.86 msec per render)
+[15:49:10] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2500 tiles rendered (485.59 msec/tile, 455.71 msec per render)
+[15:50:05] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2600 tiles rendered (487.84 msec/tile, 458.40 msec per render)
+[15:50:38] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2700 tiles rendered (482.19 msec/tile, 453.44 msec per render)
+[15:51:30] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2800 tiles rendered (483.60 msec/tile, 455.31 msec per render)
+[15:52:06] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 2900 tiles rendered (479.32 msec/tile, 451.42 msec per render)
+[15:52:55] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3000 tiles rendered (479.55 msec/tile, 452.14 msec per render)
+[15:53:34] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3100 tiles rendered (476.82 msec/tile, 449.78 msec per render)
+[15:54:17] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3200 tiles rendered (475.30 msec/tile, 448.83 msec per render)
+[15:55:07] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 3300 tiles rendered (476.09 msec/tile, 449.75 msec per render)
